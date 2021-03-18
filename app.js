@@ -113,17 +113,6 @@ function makeBook(book) {
 }
 
 
-//Library Storage Settings
-// function localData() {
-//     localStorage.setItem(`myLibrary`, JSON.stringify(myLibrary));
-// }   if (!localStorage.myLibrary) {
-//     addBookToLibrary();
-// } else {
-//     let objects = localstorage.getItem(`myLibrary`);
-//     objects = JSON.parse(objects);
-//     myLibrary = objects;
-//     addBookToLibrary();
-// }
 
 
 
