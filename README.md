@@ -1,4 +1,4 @@
-# My Bookshelve
+# My Bookshelf
 
 This project was created for The Odin Project Javascript course. This particular project represents roughly 16hrs of work, and despite some struggles I feel confident in what I am learning. I also took this project to work on my code layout, and practice best practices. 
 
